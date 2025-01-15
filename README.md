@@ -21,10 +21,6 @@ The following code can be run in any order, and is not dependent on the files cr
 - **HF-soilmoisture.R** This code creates Figure 3.
 - **HF-streamflow.R** This code creates Figure 5b.
 
-
-## Deprecated Folder
-- This folder contains old code no longer needed to recreate the figures found in the manuscript.
-
 ## Data and Software Availability
 
 ### Harvard Forest weather station datasets
